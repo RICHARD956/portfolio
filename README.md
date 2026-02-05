@@ -82,7 +82,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
 </table>
 
 [Chat with me on WhatsApp](https://wa.me/254 0105 971 507)
-[![WhatsApp](https://img.shields.io)](https://wa.me/254 0105 971 507)
+[![WhatsApp](https://img.shields.io)]
 
 
 
