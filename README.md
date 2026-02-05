@@ -102,6 +102,10 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
         width: 40px;
     }
 </style>
+<a href="https://wa.me">
+  <img src="https://readmecodegen.vercel.app" width="40" height="40" alt="WhatsApp">
+</a>
+
 <a href="https://wa.me/+254 0105 971 507" class="float" target="_blank" rel="noopener noreferrer" alt="Connect with me">
     <img class="my-float" src="whatsapp.png">
 </a>
