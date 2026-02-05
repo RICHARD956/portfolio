@@ -79,8 +79,29 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
       <td><a href="https://www.">Watch my tutorials on YouTube</a></td>
     </tr>
   </tbody>
-  <a href="https://wa.me <+254 0105 971 507" target="_blank">
-  <img src="path/to/whatsapp-icon.svg" alt="WhatsApp" width="40" height="40">
-</a>
-
 </table>
+
+<style>
+    .float {
+        position: fixed;
+        width: 60px;
+        height: 60px;
+        bottom: 40px;
+        right: 40px;
+        background-color: #25d366;
+        color: #FFF;
+        border-radius: 50px;
+        text-align: center;
+        font-size: 30px;
+        box-shadow: 2px 2px 3px #999;
+        z-index: 100;
+    }
+
+    .my-float {
+        height: 40px;
+        width: 40px;
+    }
+</style>
+<a href="https://wa.me/+254 0105 971 507" class="float" target="_blank" rel="noopener noreferrer" alt="Connect with me">
+    <img class="my-float" src="whatsapp.png">
+</a>
