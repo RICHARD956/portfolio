@@ -79,4 +79,8 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
       <td><a href="https://www.">Watch my tutorials on YouTube</a></td>
     </tr>
   </tbody>
+  <a href="https://wa.me <+254 0105 971 507" target="_blank">
+  <img src="path/to/whatsapp-icon.svg" alt="WhatsApp" width="40" height="40">
+</a>
+
 </table>
