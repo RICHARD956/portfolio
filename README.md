@@ -56,7 +56,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:richardjumasimiyu2003@gmail.com">richardjumasimiyu2003@gmail.com</a></td>
+      <td><a href="mailto:richardjumasimiyu003@gmail.com">richardjumasimiyu003@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
