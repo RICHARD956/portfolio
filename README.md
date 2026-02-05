@@ -81,5 +81,6 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   </tbody>
 </table>
 
-[![WhatsApp](https://<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/847da512-20c8-4d46-b190-2c22b23e63a7" />(https://wa.me/254 0105 971 507)
+[Chat with me on WhatsApp](https://wa.me/254 0105 971 507)
+
 
