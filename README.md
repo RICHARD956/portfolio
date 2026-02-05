@@ -83,6 +83,10 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
 
 [Chat with me on WhatsApp](https://wa.me/254 0105 971 507)
 
+<a aria-label="Chat on WhatsApp" href="https://wa.me/254 0105 971 507
+"> <img alt="Chat on WhatsApp" src="WhatsAppButtonGreenLarge.svg" />
+<a />
+
 
 
 
