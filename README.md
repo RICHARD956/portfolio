@@ -80,6 +80,9 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
   </tbody>
 </table>
+
+[![WhatsApp](https://img.shields.io)](https://wa.me/254 0105 971 507)
+
 <a href="https://wa.me/<254 0105 971 507>" class="float" target="_blank" rel="noopener noreferrer" alt="Connect with me"></a>
 <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/847da512-20c8-4d46-b190-2c22b23e63a7" />
 
