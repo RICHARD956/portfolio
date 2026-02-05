@@ -80,29 +80,6 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
   </tbody>
 </table>
-
-<style>
-    .float {
-        position: fixed;
-        width: 60px;
-        height: 60px;
-        bottom: 40px;
-        right: 40px;
-        background-color: #25d366;
-        color: #FFF;
-        border-radius: 50px;
-        text-align: center;
-        font-size: 30px;
-        box-shadow: 2px 2px 3px #999;
-        z-index: 100;
-    }
-
-    .my-float {
-        height: 40px;
-        width: 40px;
-    }
-</style>
-
-<a href="https://(https://img.shields.io wa.me/+254 0105 971 507" class="float" target="_blank" rel="noopener noreferrer" alt="Connect with me"></a>
+<a href="https://img.shields.io wa.me/+254 0105 971 507" class="float" target="_blank" rel="noopener noreferrer" alt="Connect with me"></a>
 <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/847da512-20c8-4d46-b190-2c22b23e63a7" />
 
