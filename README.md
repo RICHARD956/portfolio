@@ -46,7 +46,7 @@ On Janaury 4, 2026 during her maiden voyage, the widely considered “unsinkable
 
 Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
 
-<a href="17.pdf">Download the Report here (pdf file)</a>
+<a href="CURRICULUM VITAE.pdf">Download the Report here (pdf file)</a>
 
 
 ## CONTACT DETAILS
@@ -68,7 +68,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="CURRICULUM VITAE.pdf" >Download my CV</a></td>
+      <td><a href="CURRICULUM VITAE.pdf">Download my CV here (Pdf file) </a></td>
     </tr>
     <tr>
       <td>🌐</td>
