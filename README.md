@@ -68,7 +68,10 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="CURRICULUM VITAE.pdf">Download my CV here (Pdf file) </a></td>
+      <td><a <a href="CURRICULUM VITAE.pdf.pdf" download >
+  <button>Download My CV</button>
+</a></td>
+href="">Download my CV here (Pdf file) </a></td>
     </tr>
     <tr>
       <td>🌐</td>
