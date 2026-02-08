@@ -68,7 +68,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://eu.docworkspace.com/d/sbOaki8TdWVKnnhv_uvcl6n4defg9a34ty3 ">Download my CV</a></td>
+      <td><a href="CURRICULUM VITAE.pdf" >Download my CV</a></td>
     </tr>
     <tr>
       <td>🌐</td>
