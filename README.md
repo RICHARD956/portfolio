@@ -80,6 +80,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
   </tbody>
 </table>
+[DOWNLOAD CV](blob:https://github.com/50d8f2e3-0c0d-4849-ad0f-9e3b737a9061)
 
 [Chat with me on WhatsApp](https://wa.me/254 0105 971 507)
 
