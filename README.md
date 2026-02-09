@@ -68,7 +68,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>⬇️</td>
-      <td><a href="https://github.com/50d8f2e3-0c0d-4849-ad0f-9e3b737a9061">Download my CV here </a></td>
+      <td><a href="https://github.com/RICHARD956/portfolio/blob/d6cdf77b44abdb2e79d88ee5d4d40c35ef461889/CURRICULUM%20VITAE%20.pdf">Download my CV here </a></td>
     </tr>
     <tr>
       <td>🌐</td>
@@ -80,7 +80,6 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
   </tbody>
 </table>
-<a href="https://github.com/RICHARD956/portfolio/blob/d6cdf77b44abdb2e79d88ee5d4d40c35ef461889/CURRICULUM%20VITAE%20.pdf">Download my CV</a>
 
 
 [Chat with me on WhatsApp](https://wa.me/2540105971507)
