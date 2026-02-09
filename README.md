@@ -80,6 +80,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
   </tbody>
 </table>
+<a href="https://github.com/RICHARD956/portfolio/blob/d6cdf77b44abdb2e79d88ee5d4d40c35ef461889/CURRICULUM%20VITAE%20.pdf">Download my CV</a>
 
 
 [Chat with me on WhatsApp](https://wa.me/2540105971507)
